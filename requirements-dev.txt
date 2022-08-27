@@ -1,0 +1,12 @@
+spacy==2.0.12
+flake8~=3.8.4
+isort~=5.10.1
+jupyter-contrib-nbextensions~=0.5.1
+jupyter~=1.0.0
+jupyterlab-code-formatter~=1.4.11
+jupyterlab-git~=0.37.1
+jupyterlab~=3.4.0
+streamlit~=1.9.0
+watchdog~=2.1.7
+https://github.com/huggingface/neuralcoref-models/releases/download/en_coref_md-3.0.0/en_coref_md-3.0.0.tar.gz
+https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.0.0/en_core_web_md-2.0.0.tar.gz

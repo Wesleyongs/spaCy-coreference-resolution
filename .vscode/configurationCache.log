@@ -1,0 +1,1 @@
+{"buildTargets":[".DEFAULT",".PHONY","clean","dev","help","lab","nb","nbextension","release","run","venv"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
